@@ -6,3 +6,6 @@ beautifulsoup4==4.12.3
 plotly==5.18.0
 python-dotenv==1.0.1
 protobuf==3.20.3
+mangum==0.17.0
+fastapi==0.110.0
+python-multipart==0.0.9

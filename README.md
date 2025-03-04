@@ -35,5 +35,19 @@ streamlit run app.py
 └── betpawa_cache.json     - Cached betting data
 ```
 
+## Deployment
+
+1. Install Vercel CLI:
+```bash
+npm install -g vercel
+```
+
+2. Link and deploy:
+```bash
+vercel login
+vercel link
+vercel deploy --prod
+```
+
 ## License
 MIT License - See [LICENSE](LICENSE) for details
